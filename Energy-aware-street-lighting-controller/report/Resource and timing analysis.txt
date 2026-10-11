@@ -1,0 +1,33 @@
+Resource and Timing Analysis
+
+Energy-Aware Street Lighting Controller
+
+FPGA and Tool Details
+
+-   FPGA Family: Cyclone II
+-   FPGA Device: EP2C8T144C8
+-   Software: Quartus II 13.0.1 (64-bit)
+-   Compilation Status: Successful
+-   Compilation Errors: 0
+-   Compilation Warnings: 11
+
+Resource Utilization
+
+  Parameter                                Quartus Report
+  ------------------------------------ ------------------
+  Total Logic Elements                   58 / 8,256 (<1%)
+  Total Combinational Functions          56 / 8,256 (<1%)
+  Dedicated Logic Registers              41 / 8,256 (<1%)
+  Total Registers                                      41
+  Total Memory Bits                      0 / 165,888 (0%)
+  Total Pins / I/O Pins                     12 / 85 (14%)
+  Total Virtual Pins                                    0
+  Embedded Multiplier 9-bit Elements          0 / 36 (0%)
+  Total PLLs                                   0 / 2 (0%)
+
+Timing Analysis
+
+Parameter	                     Expected / estimated value
+
+Maximum Frequency (Fmax)	            50 MHz
+Clock Period	                      20 ns for a 50 MHz clock
