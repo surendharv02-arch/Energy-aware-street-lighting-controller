@@ -210,7 +210,7 @@ With `day\_night = 1`, only alternate LEDs are active (`10101010` shown); `day\_
 
 ## 👤 Author
 
-GLADVIN SAMUVEL V M
+Surendhar V
 
 Electronics & Communication Engineering, Aspiring VLSI Engineer
 
